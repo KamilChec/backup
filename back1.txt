@@ -1,0 +1,6 @@
+#config file for backupSolution1
+
+BACKUP_FILES=(~/Desktop/images ~/Desktop/test ~/Desktop/fest)
+BACKUP_DIR=~/Desktop/backups
+DO_NOT_COPY=*.txt
+MAX_FILE_SIZE=1M
